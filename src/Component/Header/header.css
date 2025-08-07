@@ -1,0 +1,29 @@
+.header__elements{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+.header__form-elements{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.linkedIn__logo{
+    width: 35px;
+    border-radius: 5px;
+    margin: 0 15px;
+}
+
+.linkedIn__search{
+    width: 350px;
+    padding: 8px;
+    border-radius: 15px;
+    border: 1px solid #bfbfbf;
+}
+
+.linkedIn__search:active{
+    border: 1px solid #bfbfbf;
+}
