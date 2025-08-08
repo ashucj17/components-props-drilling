@@ -23,6 +23,9 @@ const Header = () =>{
             <Filter/>
             </form>
         </header>
+        <main className="main_section">
+            <div className="main_card"></div>
+        </main>
         </>
     )
 

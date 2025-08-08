@@ -1,0 +1,15 @@
+.fiter{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #cbcbcb;
+}
+
+.filter__options{
+    margin: 10px 5px;
+    padding:8px 20px;
+    border: 1px solid #e1e1e1;
+    outline: none;
+    border-radius: 15px;
+}
