@@ -4,6 +4,7 @@ import Country from './Country/Country'
 import './filter.css'
 
 export const Filter = () => {
+
   return (
     <>
         <div className='fiter'>
